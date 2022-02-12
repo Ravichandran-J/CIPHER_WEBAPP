@@ -27,7 +27,7 @@ A new tab will open in brower and do the necesssary things
 
 ## Screenshots
 
-![App Screenshot](https://github.com/Ravichandran-J/CIPHER_WEBAPP/blob/33108fcfcc9bd4305e9b28adde47ed232c22db1c/screenshots/entry1.JPG?raw=True)
+
 
 ![App Screenshot](https://github.com/Ravichandran-J/CIPHER_WEBAPP/blob/main/screenshots/entry1.JPG?raw=True)
 ![App Screenshot](https://github.com/Ravichandran-J/CIPHER_WEBAPP/blob/main/screenshots/entry2.JPG?raw=True)

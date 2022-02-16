@@ -9,7 +9,7 @@ This is an sample web app for converting normal text into  cipher text.It is an 
 
 ## Installation
 
-Install my-project with npm
+Install pywebio with pip
 
 ```bash
   pip install pywebio
